@@ -44,6 +44,7 @@ void repeatable_loop() {
 			printf("%s\n", ai_response);
 		}
 		free(user_input);
+		user_input = NULL;
 	}
 }
 
