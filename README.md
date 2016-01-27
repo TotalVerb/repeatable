@@ -1,3 +1,3 @@
 # repeatable
 
-This project is under construction. When complete, repeatable will be able to learn from human conversations and be able to respond logically to human inquiries.
+This project is under construction. When complete, repeatable will be able to play a wide variety of text-based games with the human challenger.
