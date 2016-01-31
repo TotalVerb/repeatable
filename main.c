@@ -5,7 +5,7 @@
 #include "colourful.c"
 
 /* Repeatable project description:
-   Pretends to be human by "learning" what humans say. */
+   Let humans play games against AIs. */
 
 size_t get_input(char** user_input) {
 	size_t bytes_read;	
